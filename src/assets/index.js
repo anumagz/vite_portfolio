@@ -29,7 +29,7 @@ import halcyon from "./company/halcyon.png";
 
 import brandbiz from "./brandbiz.png";
 import brandmonkcon from "./brandmonk.png";
-import course from "./course.png";
+import zika from "./zika.png";
 import gacha from "./gacha.png";
 import pmf from "./pmf.png";
 import comic from "./comic.png";
@@ -63,7 +63,7 @@ export {
   brandmonk,
   brandbiz,
   brandmonkcon,
-  course,
+  zika,
   pmf,
   gacha,
   comic,

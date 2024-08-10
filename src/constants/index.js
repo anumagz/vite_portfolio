@@ -20,7 +20,7 @@ import {
   brandmonk,
   brandmonkcon,
   brandbiz,
-  course,
+  zika,
   postgresql,
   wordpress,
   krita,
@@ -247,27 +247,27 @@ tags: [
     image: brandmonkcon,
     source_code_link: "https://brandconsultant-site.vercel.app",
   },
-  // {
-  //   name: "Course Archive App",
-  //   description:
-  //   "Developed an intuitive online course app enabling teachers to upload and edit videos effortlessly. Students can securely log in to access a curated library of educational content. Seamlessly bridging teacher-student interactions.",
-  //   tags: [
-  //     {
-  //       name: "JavaScript",
-  //       color: "blue-text-gradient",
-  //     },
-  //     {
-  //       name: "PHP",
-  //       color: "green-text-gradient",
-  //     },
-  //     {
-  //       name: "CSS",
-  //       color: "pink-text-gradient",
-  //     },
-  //   ],
-  //   image: course,
-  //   source_code_link: "https://coursearchive.000webhostapp.com/home.php",
-  // },
+  {
+    name: "Zika Designs",
+    description:
+    "Revamped the Zika Designs website enabling clients to view the services offered and contact the owner through forms to book consultation sessions. Rewrote the content for each page and created blogs to enhance the appearance of site on search engines.",
+    tags: [
+      {
+        name: "JavaScript",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "SQL",
+        color: "green-text-gradient",
+      },
+      {
+        name: "PHP",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: zika,
+    source_code_link: "https://zikadesigns.com/",
+  },
   {
     name: "Gacha Match",
     description:
